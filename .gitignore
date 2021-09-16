@@ -1,0 +1,5 @@
+# vs files/folders (if using visual studio editor)
+source\*.vs
+*.vs
+
+
